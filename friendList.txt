@@ -1,17 +1,20 @@
 =======================
-|| AI Shaker         ||
+|| AI Shaker         || Netrokona
 =======================
-|| Noman Ahmed       ||
+|| Noman Ahmed       || Cumilla
 =======================
-|| Rifatul Islam     ||
+|| Rifatul Islam     || Magura
 =======================
-|| Emran Hossen      ||
 =======================
-|| Daiyan            ||
+|| AK Ali Akbar      || Magura
 =======================
-|| Rafiul Islam      ||
+|| Emran Hossen      || Jamalpur
 =======================
-|| Safi Ahmed Rakib  ||
+|| Daiyan            || Dhaka
 =======================
-|| Showrab Ahmed     ||
+|| Rafiul Islam      || Dhaka
+=======================
+|| Safi Ahmed Rakib  || Savar
+=======================
+|| Showrab Ahmed     || Nouakhali
 =======================
