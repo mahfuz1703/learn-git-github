@@ -1,5 +1,5 @@
-A - +88015xxxxxxx1
-B - +88015xxxxxxx2
-C - +88015xxxxxxx3
-D - +88015xxxxxxx4
-E - +88015xxxxxxx5
+A
+B
+C
+D
+E
